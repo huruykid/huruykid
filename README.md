@@ -1,16 +1,13 @@
-## Hi there 👋
+# Huruy Kidanemariam
 
-<!--
-**huruykid/huruykid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior UX Designer in Los Angeles who designs, builds and ships. I run Appfinity Labs, an independent product studio.
 
-Here are some ideas to get you started:
+**Shipped**
+- [EBT Finder](https://huruy.tech/project/ebtfinder): store locator for the 42M people on SNAP. Designed, built and shipped solo to the App Store.
+- [Beles](https://huruy.tech/project/beles): dating and community app for the Tigrayan diaspora.
+- [The Oracle of San Quentin](https://huruy.tech/book): my first book, an unofficial biography of Curtis “Wall Street” Carroll.
+- [huruy.tech](https://huruy.tech): this portfolio. React, TypeScript, Supabase. Source pinned below.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools I build with:** Figma, React, TypeScript, Supabase, Capacitor, Lovable, Claude.
+
+Case studies and contact at [huruy.tech](https://huruy.tech) · [LinkedIn](https://www.linkedin.com/in/huruykidanemariam/)
